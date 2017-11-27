@@ -1,0 +1,8 @@
+title: Yao-homepage
+description: Di Yao’s  Home Page
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
